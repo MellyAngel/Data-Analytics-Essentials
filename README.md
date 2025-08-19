@@ -1,7 +1,7 @@
-Pada pertemuan pertama Data Analytics Essentials kita diberi tahu dosen kita tentang pembagian nilai yang kita dapatkan, mulai dari UTS, UAS, quiz, dan juga project
-Apa sih data itu? data adalah sekumpulan fakta dan statistik yang dikumpulkan untuk referensi dan analisis
+Pada pertemuan pertama Data Analytics Essentials kita diberi tahu dosen kita tentang pembagian nilai yang kita dapatkan, mulai dari UTS, UAS, quiz, dan juga project. 
+Apa sih data itu? data adalah sekumpulan fakta dan statistik yang dikumpulkan untuk referensi dan analisis. 
 kita juga diajarkan tentang Piramida DIKW(Data-Information-Knowledge-Wisdom) 
-Apa itu Data Analysis? Data analysis adalah proses analisis data yang biasanya berskala besar dengan menggunakan matematika, statistika, dan software komputer
+Apa itu Data Analysis? Data analysis adalah proses analisis data yang biasanya berskala besar dengan menggunakan matematika, statistika, dan software komputer. 
 
 Proses Data Analysis:
 1. Memahami masalah dan hasil yang diinginkan
